@@ -2,8 +2,7 @@
 name: LUMES PERSONALIZADOS
 about: Desafio: Como vender minha marca? Criando um Guia Prático!
 title: "[LUMES PERSONALIZADOS]"
-labels: community challenge
-assignees: ''
+labels: community challenge LUMES
 
 ---
 
@@ -14,4 +13,5 @@ O resto? Bom, o resto voce pode acompanhar no @ personalizadoslumes no Insta.
 
 Criei um portifólio com meus produtos no Instagram e adicionei a URL da minha página por aqui - meu público, definitivamente, não está aqui - mas não custa nada explorar minha criatividade, né?
 
-- [MInha página da loja LUMES Personalizados]((https://www.instagram.com/personalizadoslumes/)) 
+- [MInha página da loja LUMES Personalizados]
+- ((https://www.instagram.com/personalizadoslumes/)) 
